@@ -11,7 +11,6 @@ public class BarraDeVida : MonoBehaviour
     public float VidaMaxima;
 
 
-    // Update is called once per frame
     void Update()
     {
         Barradevida.fillAmount = VidaActual / VidaMaxima;
