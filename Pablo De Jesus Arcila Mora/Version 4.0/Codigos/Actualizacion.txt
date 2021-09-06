@@ -1,0 +1,1 @@
+Estos son los códigos que corresponden a lo implementado por mi parte a la versión 4.0 del proyecto, estos abarcan todo lo relacionado al primer nivel, enemigos, plataformas, el propio jugador, checkpoints, entre otras mecánicas.
