@@ -1,0 +1,1 @@
+Se implementaron dos enemigos, una barra de vida, lanzas y se dejaron los graficos necesarios para poder implementar mas cosas en un futuro como actualizacion.
